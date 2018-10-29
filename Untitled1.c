@@ -12,7 +12,7 @@ void test1(int n);
 main()
 {
     int chooce,n;
-
+    system("color fc");
         printf("欢迎来到四则运算练习题\n");
         printf("（按回车键开始做题）\n");
 
